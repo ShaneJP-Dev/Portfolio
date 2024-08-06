@@ -69,6 +69,7 @@ export const navItems = [
     },
   ];
   
+  {/* Modify these with your projects*/ }
   export const projects = [
     {
       id: 1,
